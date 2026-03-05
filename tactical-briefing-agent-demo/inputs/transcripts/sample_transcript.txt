@@ -1,0 +1,4 @@
+[10:02:05] Unit B: One vehicle stopped unusually for ~30 seconds.
+[10:03:12] Observer: Crowd near gate appears to be growing.
+[10:04:40] Dispatcher: Camera feed in Zone A has intermittent congestion.
+[10:06:02] Unit C: Continue monitor and report visual changes only.

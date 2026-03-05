@@ -1,0 +1,4 @@
+timestamp,category,note
+10:02:10,Vehicle Stop,Vehicle remained in same lane for 25-35 seconds.
+10:03:20,Crowd,Increased foot traffic at checkpoint.
+10:05:05,Monitor,Operator flagged temporary stream lag.
